@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google-generativeai
+chromadb
+websockets
+python-dotenv
+python-multipart
+Pillow

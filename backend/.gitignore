@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.local
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Database
+*.db
+*.sqlite3
+chroma_db/
+chroma_history_db/
+
+# Logs
+*.log
+
+# Generated Avatars (keep default/seeded ones, ignore generated)
+static/avatars/generated_*.png
