@@ -11,7 +11,7 @@
 
 2. Activate the environment (if using conda):
    ```bash
-   conda activate chatdocenv
+   conda activate "your environment name"
    ```
 
 3. Install dependencies (if not already installed):
